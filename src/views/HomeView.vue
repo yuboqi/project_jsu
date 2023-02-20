@@ -17,7 +17,7 @@ export default {
   name: 'HomeView',
   data () {
     return {
-      input: '1111'
+      input: '1111222'
     }
   }
 }
